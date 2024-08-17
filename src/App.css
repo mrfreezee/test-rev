@@ -177,6 +177,7 @@
 .btn-wrap p {
   color: black;
   font-weight: 900;
+  margin-top: 30px;
   font-size: 90px;
   -webkit-text-stroke: 1px rgb(255, 255, 255);
 
@@ -441,29 +442,29 @@
 
 @media(max-width: 1620px) {
   .navbar a {
-      font-size: 80px;
-  }
-
-  .title {
-      font-size: 80px;
-  }
-
-  .subtitle {
       font-size: 70px;
   }
 
-  .earn-text {
-      font-size: 80px;
+  .title {
+      font-size: 70px;
   }
 
-  .btn-wrap {
-      font-size: 40px;
+  .subtitle {
+      font-size: 60px;
+  }
+
+  .earn-text {
+      font-size: 70px;
+  }
+
+  .btn-wrap p{
+      font-size: 60px;
   }
 
   .btn {
-      right: -182px;
-      width: 570px;
-      bottom: 45px;
+    right: -175px;
+    width: 498px;
+    bottom: 13px;
   }
 
 
@@ -660,6 +661,7 @@
 
   .btn-header {
       font-size: 35px;
+      border: 2px solid black;
   }
 }
 
