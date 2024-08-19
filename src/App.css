@@ -806,7 +806,7 @@
   }
 
   .subtitle {
-      margin-top: 40px;
+      margin-top: 30px;
       -webkit-text-stroke: 2px black;
 
   }
@@ -837,6 +837,14 @@
   }
   .btn-wrap p{
     -webkit-text-stroke: 2px rgb(255, 255, 255);
+  }
+  .navbar a,
+  .navbar span{
+    -webkit-text-stroke: 2px black;
+
+  }
+  .btn-header{
+    -webkit-text-stroke: 2px black;
 
   }
 
