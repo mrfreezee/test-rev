@@ -28,10 +28,8 @@ function App() {
             <img className='btn' src='btn.svg' />
             <p style={{ zIndex: '5' }}>EARN</p>
             <button className='inv-btn' id="not-ton-connect" onlick="openButton()">
-
             </button>
           </div>
-
         </div>
         <footer className="footer">
           <span className="powered">POWERED ON <span className="ton">TON</span></span>

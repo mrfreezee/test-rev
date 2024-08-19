@@ -103,16 +103,10 @@
 .title {
   font-size: 90px;
   margin: 20px 0;
-  width: 60%;
+  /* width: 60%; */
   text-transform: uppercase;
   color: white;
   -webkit-text-stroke: 1px black;
-  /* text-shadow:
-    3px 3px 0 rgb(11, 11, 11),
-    -3px 3px 0 rgb(0, 0, 0),
-    3px -3px 0 rgb(0, 0, 0),
-    -3px -3px 0 rgb(0, 0, 0),
-    3px 3px 0 black; */
   z-index: 2;
   margin-top: 100px;
   text-align: center;
@@ -705,15 +699,17 @@
 
   .subtitle {
       font-size: 40px;
+      margin-top: 15px;
   }
 
   .earn-text {
       font-size: 50px;
-      margin-top: 50px;
+      margin-top: 20px;
   }
 
   .btn-wrap p {
       font-size: 45px;
+      margin-top: 30px;
   }
 
   .btn-header {
@@ -770,12 +766,12 @@
 
   .earn-text {
       font-size: 40px;
-      margin-top: 60px;
+      /* margin-top: 60px; */
   }
 
   .btn-wrap {
       /* font-size: 30px; */
-      margin-top: 60px;
+      /* margin-top: 60px; */
   }
 
   .btn-header {
@@ -812,7 +808,7 @@
   }
 
   .earn-text {
-      margin-top: 80px;
+      /* margin-top: 80px; */
   }
 
   .card h1 {
